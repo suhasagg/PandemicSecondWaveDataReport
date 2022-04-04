@@ -2,6 +2,9 @@
 
 Pandemic Second Wave Data Reports
 
+I sincerely believe, these reports and data patterns play a very significant  role in designing disaster prevention algorithm by using efficient notification and gamification based algorithms to ensure users digital twin data is optimum and is ensuring users well being. 
+
+
 <img src="https://pbs.twimg.com/media/FO8jnplaIAEeYaq?format=png&name=large" height="400" width="500" >
 
 
