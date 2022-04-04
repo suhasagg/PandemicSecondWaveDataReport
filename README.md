@@ -42,3 +42,11 @@ I sincerely believe, these reports and data patterns play a very significant  ro
 
 <img src="https://pbs.twimg.com/media/FPM27YcaQAIIHlS?format=jpg&name=large" height="400" width="500" >
 
+
+
+<img src="https://pbs.twimg.com/media/FOWlg-jaQAUCa6o?format=jpg&name=large" height="400" width="500" >
+
+
+
+
+
