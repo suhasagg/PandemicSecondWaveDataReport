@@ -2,7 +2,7 @@
 
 Pandemic Second Wave Data Report
 
-<img src="https://pbs.twimg.com/media/FO8jnplaIAEeYaq?format=png&name=large" height="60" width="60" >
+<img src="https://pbs.twimg.com/media/FO8jnplaIAEeYaq?format=png&name=large" height="200" width="200" >
 
 <img src="https://pbs.twimg.com/media/FO8j9u0aUAEpjkw?format=png&name=large" height="60" width="60" >
 
