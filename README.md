@@ -69,7 +69,9 @@ impression/click activity on indiatoday.in/aajtak.in
 
 Publisher Analytic Segments
 
+
 Engagement Time Based Segments
+
 
 1)Segment Engagement Times
 
@@ -91,7 +93,9 @@ Engagement Time Based Segments
 
 Machine Learning based Segments
 
+
 This covers different domains Personas
+
 
 1)Emotion Persona
 
@@ -109,7 +113,10 @@ respect to campaign segments.
 These data points are supplied to AdManager for personalised
 campaigns and personalised content recommendations.
 
+
 Layer 2 scaled blockchain stack for -
+
+
 1)Publisher Data Management Platform
 
 2)Publisher Data currency
@@ -125,6 +132,7 @@ tracker data.
 
 
 Different tokens available
+
 
 1)Emotion Persona based data points for emotion based
 cryptocurrencies.
