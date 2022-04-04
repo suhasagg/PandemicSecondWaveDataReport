@@ -1,6 +1,6 @@
 # PandemicSecondWaveDataReport
 
-Pandemic Second Wave Data Report
+Pandemic Second Wave Data Reports
 
 <img src="https://pbs.twimg.com/media/FO8jnplaIAEeYaq?format=png&name=large" height="400" width="500" >
 
