@@ -49,7 +49,7 @@ I sincerely believe, these reports and data patterns play a very significant  ro
 
 
 
-Publisher Data Currency and its Applications -
+```Publisher Data Currency and its Applications```
 
 
 User Data Points are derived in different domains based on user
@@ -67,17 +67,20 @@ impression/click activity on indiatoday.in/aajtak.in
 5)Topic Segments
 
 
-Publisher Analytic Segments
+```Publisher Analytic Segments```
 
 
-Engagement Time Based Segments
+```Engagement Time Based Segments```
 
 
 1)Segment Engagement Times
 
 2)Topic Engagement Times
 
-3)Section Engagement TimesSession Based Segments
+3)Section Engagement Times
+
+
+```Session Based Segments```
 
 1)Session count
 
@@ -91,7 +94,7 @@ Engagement Time Based Segments
 
 
 
-Machine Learning based Segments
+```Machine Learning based Segments```
 
 
 This covers different domains Personas
@@ -114,7 +117,7 @@ These data points are supplied to AdManager for personalised
 campaigns and personalised content recommendations.
 
 
-Layer 2 scaled blockchain stack for -
+```Layer 2 scaled blockchain stack for```
 
 
 1)Publisher Data Management Platform
@@ -131,7 +134,7 @@ tracker data.
 
 
 
-Different tokens available
+```Different tokens available```
 
 
 1)Emotion Persona based data points for emotion based
