@@ -51,6 +51,7 @@ I sincerely believe, these reports and data patterns play a very significant  ro
 
 ```Publisher Data Currency and its Applications```
 
+Hybrid of Basic Attention Token, Different domain NFTs, Chainlink token.
 
 User Data Points are derived in different domains based on user
 impression/click activity on indiatoday.in/aajtak.in
