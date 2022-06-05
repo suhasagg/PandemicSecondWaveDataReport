@@ -49,6 +49,12 @@ I sincerely believe, these reports and data patterns play a very significant  ro
 
 
 
+https://www.facebook.com/groups/682232515824097/permalink/960500107997335/
+💚💙🧡💜💖🌹🌹🌸
+
+
+
+
 ```Publisher Data Currency and its Applications```
 
 Hybrid of Basic Attention Token, Different domain NFTs, Chainlink token.
