@@ -159,3 +159,5 @@ level/asset based personas) for credit based tokens.
 
 5)Total traffic, engagement time, bounce rate metrics based minting
 policies for publisher token.
+
+6)Virtue tokens for User virtue Persona.
