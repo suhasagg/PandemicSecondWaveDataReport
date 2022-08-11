@@ -2,7 +2,7 @@
 
 Loom Attention Token
 
-<img src="https://cdn-images-1.medium.com/max/1600/1*nKVItzHlSKdsGgSbxa7zew.png" height="400" width="500" >
+<img src="https://cdn-images-1.medium.com/max/1600/1*nKVItzHlSKdsGgSbxa7zew.png" height="200" width="200" >
 
 I sincerely believe, these reports and data patterns play a very significant  role in designing disaster prevention algorithm by using efficient notification and gamification based algorithms to ensure users digital twin data is optimum and is ensuring users well being. 
 
