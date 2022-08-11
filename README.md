@@ -1,4 +1,4 @@
-# PandemicSecondWaveDataReport
+# LOOM ATTENTION TOKEN
 
 Loom Attention Token
 
