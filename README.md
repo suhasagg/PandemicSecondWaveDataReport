@@ -1,6 +1,8 @@
 # PandemicSecondWaveDataReport
 
-Pandemic Second Wave Data Reports
+Loom Attention Token
+
+<img src="https://pbs.twimg.com/media/FO8kQ2-aQAMAOzE?format=png&name=large" height="400" width="500" >
 
 I sincerely believe, these reports and data patterns play a very significant  role in designing disaster prevention algorithm by using efficient notification and gamification based algorithms to ensure users digital twin data is optimum and is ensuring users well being. 
 
